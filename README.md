@@ -25,4 +25,5 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 ```jsx
 printFibonacci(5);  // should print 0, 1, 1, 2, 3
 printFibonacci(10); // should print 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+printFibonacci(7); // should print 0, 1, 1, 2, 3, 5, 8
 ```
